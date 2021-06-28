@@ -10,3 +10,8 @@
 section {
   padding-top: 5rem;
 }
+
+body {
+  font-family: "Acme";
+  font-size: 22px;
+}
